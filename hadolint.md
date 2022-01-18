@@ -1,5 +1,5 @@
 # General introduction
- **Ha**skell **do**cker **lint** is a smarter Dockerfile linter that helps you build best practice Docker images. 
+ Hadolint (**Ha**skell **do**cker **lint**) is a smarter Dockerfile linter that helps you build best practice Docker images. 
  
 # Some basic functionalities
 The linter parses the Dockerfile into an AST and performs rules on top of the AST. Hadolint not only lints the docker instructions, but it also incorporates ShellCheck which lints any bash or sh code used in the docker RUN instructions.
