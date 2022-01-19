@@ -27,5 +27,7 @@ Portainer is an Open-source lightweight management UI which allows you to easily
 # Useful links
 
 [1](https://www.youtube.com/watch?v=8q9k1qzXRk4)
-[2](https://cbea.ms/git-commit/)
+[2](https://www.portainer.io/)
 [3](https://docs.docksal.io/use-cases/portainer/)
+[4](https://github.com/portainer/portainer)
+[5](https://hub.docker.com/r/portainer/portainer)
