@@ -9,7 +9,7 @@ Portainer is an Open-source lightweight management UI which allows you to easily
  * view container configuration
  * Can display logs with filtering
  
-![](https://2.bp.blogspot.com/-N7piChMnv4Y/XNv01GHPOlI/AAAAAAAACw4/x41sXFftxpAFin_tsFLH7v-WwAZbS-nwACLcBGAs/w1200-h630-p-k-no-nu/portainer.png)
+![](https://l.top4top.io/p_2210juonl1.png)
  
 # Advantages
  * Very easy to deploy
