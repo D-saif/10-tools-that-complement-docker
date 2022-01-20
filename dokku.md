@@ -1,1 +1,2 @@
-
+### how it works
+What Is Dokku? Dokku is an open-source platform-as-a-service (PaaS). If you're familiar with Heroku, you can consider Dokku a private Heroku that you manage. In fact, in the Dokku GitHub repo, it's called a “Docker powered mini-Heroku.” Dokku installs Docker and then uses it to manage deployments of applications.Apr 23, 2021
