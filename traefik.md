@@ -6,6 +6,7 @@
 
 ![how reversy proxy works](https://www.imperva.com/learn/wp-content/uploads/sites/13/2019/01/reverse-proxy-02-1.jpg)
 
+Let's Encrypt is a non-profit certificate authority run by Internet Security Research Group
 
 ## Pros of using Traefik
  
@@ -20,4 +21,3 @@
 * Exposes a Rest API
 * Fast
 * Provides metrics
-
