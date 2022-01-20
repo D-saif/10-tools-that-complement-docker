@@ -10,8 +10,10 @@
 
 [Why alpine images isn't good for python docker images?](https://pythonspeed.com/articles/alpine-docker-python/)
 
-[Docker layers](https://www.youtube.com/watch?v=RP-z4dqRTZA)
+[Docker layers 1](https://www.youtube.com/watch?v=RP-z4dqRTZA)
 
 [Docker layers 2](https://vsupalov.com/docker-image-layers/)
+
+[Docker layers 3](https://vsupalov.com/docker-cache/)
 
 [Docker best practices](https://www.youtube.com/watch?v=JofsaZ3H1qM&t=12s)
